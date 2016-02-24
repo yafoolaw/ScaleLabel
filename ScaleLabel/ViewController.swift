@@ -56,7 +56,7 @@ class ViewController: UIViewController {
             scaleLabel2.startAnimation()
             scaleLabel3.startAnimation()
             
-            }, afterDelaySecs: 7)
+            }, afterDelaySecs: 1)
         
     }
 }
